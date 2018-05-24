@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 ### Writeup / README
 
 #### 1. PUT MY GITHUB LINK HERE!
-The following is the report on the Traffic Sign Classifier project (See [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb))
+The following is the report on the Traffic Sign Classifier project (See [project code](https://github.com/anammy/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb))
 
 ### Data Set Summary & Exploration
 
