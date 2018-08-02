@@ -25,13 +25,12 @@ The goals / steps of this project are the following:
 [image8]: ./figures/newimages.jpg "NewImg"
 
 
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
+<!---## Rubric Points
+### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation. ---> 
 
 ---
 ### Writeup / README
 
-#### 1. PUT MY GITHUB LINK HERE!
 The following is the report on the Traffic Sign Classifier project (See [project code](https://github.com/anammy/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb))
 
 ### Data Set Summary & Exploration
